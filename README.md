@@ -86,6 +86,6 @@ In many institutions, students often face challenges in booking appointments wit
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/Rehankhan37540/appointment-system.git
+git clone https://github.com/Rehankhan37540/Student-and-Teacher.git
 
 
